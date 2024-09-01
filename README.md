@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning, deep learning, NLP, CV.
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me : Linkedin
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/mk771996/)
 
 <!---
 manish-kumar-iisc/manish-kumar-iisc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
